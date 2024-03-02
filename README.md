@@ -17,7 +17,7 @@ The project aims to predict the likelihood of an individual having diabetes base
 
 ## Requirements
 
-- Python 3.x
+- Python
 - pandas
 - numpy
 - scikit-learn
